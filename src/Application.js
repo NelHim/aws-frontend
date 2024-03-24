@@ -12,12 +12,12 @@ function Application() {
       <div className="grid grid-cols-12 grid-rows-1 gap-4 h-full">
         <Navigation>
           <NavigationLink to="/">Home</NavigationLink>
-          <NavigationLink to="/notes/hipster">Hipster Ipsum</NavigationLink>
-          <NavigationLink to="/notes/zombie">Zombie Ipsum</NavigationLink>
-          <NavigationLink to="/notes/cupcake">Cupcake Ipsum</NavigationLink>
-          <NavigationLink to="/notes/cheese">Cheese Ipsum</NavigationLink>
-          <NavigationLink to="/notes/cat">Cat Ipsum</NavigationLink>
-          <NavigationLink to="/notes/office">Office Ipsum</NavigationLink>
+          <NavigationLink to="/notes/hipster">Hipster</NavigationLink>
+          <NavigationLink to="/notes/zombie">Zombie</NavigationLink>
+          <NavigationLink to="/notes/cupcake">Cupcake</NavigationLink>
+          <NavigationLink to="/notes/cheese">Cheese</NavigationLink>
+          <NavigationLink to="/notes/cat">Cat</NavigationLink>
+          <NavigationLink to="/notes/office">Office</NavigationLink>
           <NavigationLink to="/notes/beatles">The Beatles</NavigationLink>
         </Navigation>
         <section className="col-span-9 p-4">
